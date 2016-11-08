@@ -1,4 +1,4 @@
-<?php 
+﻿<?php 
   use yii\widgets\LinkPager; 
 ?>
 <div class="main-content">
@@ -110,10 +110,10 @@
 				                'nextPageLabel' => '下一页',
 				            	]);
 							?><br/>
-							<button id="complete">全选</button>
-							<button id="rebellion">反选</button>
-							<button id="nope">全不选</button>
-							<button id="delAll">批量删除</button>
+							<button id="complete" class="btn btn-default btn-sm">全选</button>
+							<button id="rebellion" class="btn btn-default btn-sm">反选</button>
+							<button id="nope" class="btn btn-default btn-sm">全不选</button>
+							<button id="delAll" class="btn btn-default btn-sm">批量删除</button>
 						</td>					
 					</tr>				
 				</tbody>

@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 namespace frontend\controllers;
 
 use Yii;
@@ -9,7 +9,7 @@ use app\Models\House;
 use yii\data\Pagination;      //分页
 
 
-class HouseController extends Controller
+class HouseController extends CommonController
 {
     //引入公共样式
     public $layout = 'admin';

@@ -1,10 +1,10 @@
-<?php
+﻿<?php
 namespace frontend\controllers;
 use Yii;
 use yii\web\controller;
 //use frontend\models\ListtModel;
 
-class AdminController extends Controller{
+class AdminController extends CommonController{
 	// //引入公共样式
  //    public $layout = 'admin';
     
