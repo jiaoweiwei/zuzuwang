@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fcc222a9-16d9-4cd3-9461-6fe1d7ba1f6b" name="默认的" comment="" />
+    <ignored path="yii3.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="yii3" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="CommonController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advanced/frontend/controllers/CommonController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="27.357143" vertical-offset="1810" max-vertical-offset="2484">
+              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+              <folding>
+                <element signature="e#86#94#0#PHP" expanded="true" />
+                <marker date="1478757036223" expanded="true" signature="1044:1246" placeholder="select rn.no..role_node..." />
+                <marker date="1478757036223" expanded="true" signature="1169:1214" placeholder="SELECT role_..user_role..." />
+                <marker date="1478757036223" expanded="true" signature="1453:1655" placeholder="select rn.no..role_node..." />
+                <marker date="1478757036223" expanded="true" signature="1578:1623" placeholder="SELECT role_..user_role..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advanced/frontend/views/cart/add.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.535714" vertical-offset="567" max-vertical-offset="2133">
+              <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advanced/frontend/views/role/add.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.392857" vertical-offset="1327" max-vertical-offset="1950">
+              <caret line="58" column="61" selection-start-line="58" selection-start-column="61" selection-end-line="58" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CartModel.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advanced/frontend/models/CartModel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.6896553" vertical-offset="792" max-vertical-offset="1947">
+              <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advanced/frontend/views/layouts/admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.1724138" vertical-offset="8240" max-vertical-offset="25326">
+              <caret line="312" column="32" selection-start-line="312" selection-start-column="32" selection-end-line="312" selection-end-column="32" />
+              <folding>
+                <marker date="1478757587354" expanded="true" signature="28241:28351" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/advanced/frontend/controllers/LoginController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.0" vertical-offset="910" max-vertical-offset="1692">
+              <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HouseController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advanced/frontend/controllers/HouseController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-62.0" vertical-offset="2980" max-vertical-offset="8460">
+              <caret line="136" column="0" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+              <folding>
+                <marker date="1478756425488" expanded="true" signature="2044:2080" placeholder="select * fro..cart..." />
+                <marker date="1478756425488" expanded="true" signature="5673:5717" placeholder="select cart_..cart..." />
+                <marker date="1478756425488" expanded="true" signature="6882:6941" placeholder="UPDATE house..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advanced/frontend/views/house/show.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="2.5357144" vertical-offset="1727" max-vertical-offset="6509">
+              <caret line="72" column="53" selection-start-line="72" selection-start-column="53" selection-end-line="72" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="upda.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advanced/frontend/views/house/upda.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-27.857143" vertical-offset="910" max-vertical-offset="3276">
+              <caret line="65" column="118" selection-start-line="65" selection-start-column="118" selection-end-line="65" selection-end-column="118" />
+              <folding>
+                <marker date="1478756551565" expanded="true" signature="3489:3618" placeholder="..." />
+                <marker date="1478756551565" expanded="true" signature="3557:3618" placeholder="..." />
+                <marker date="1478756551565" expanded="true" signature="3804:3948" placeholder="..." />
+                <marker date="1478756551565" expanded="true" signature="3975:4245" placeholder="..." />
+                <marker date="1478756551565" expanded="true" signature="4078:4245" placeholder="..." />
+                <marker date="1478756551565" expanded="true" signature="4373:4643" placeholder="..." />
+                <marker date="1478756551565" expanded="true" signature="4476:4643" placeholder="..." />
+                <marker date="1478756551565" expanded="true" signature="4747:4913" placeholder="..." />
+                <marker date="1478756551565" expanded="true" signature="4814:4913" placeholder="..." />
+                <marker date="1478756551565" expanded="true" signature="5020:5308" placeholder="..." />
+                <marker date="1478756551565" expanded="true" signature="5049:5308" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advanced/frontend/views/house/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.857142" vertical-offset="1378" max-vertical-offset="3016">
+              <caret line="69" column="25" selection-start-line="60" selection-start-column="20" selection-end-line="69" selection-end-column="25" />
+              <folding>
+                <marker date="1478744664888" expanded="true" signature="2896:3005" placeholder="..." />
+                <marker date="1478744664888" expanded="true" signature="2896:3085" placeholder="..." />
+                <marker date="1478744664888" expanded="true" signature="2964:3005" placeholder="..." />
+                <marker date="1478744664888" expanded="true" signature="3111:3194" placeholder="..." />
+                <marker date="1478744664888" expanded="true" signature="3111:3255" placeholder="..." />
+                <marker date="1478744664888" expanded="true" signature="3282:3356" placeholder="..." />
+                <marker date="1478744664888" expanded="true" signature="3282:3609" placeholder="..." />
+                <marker date="1478744664888" expanded="true" signature="3385:3583" placeholder="..." />
+                <marker date="1478744664888" expanded="true" signature="3634:3708" placeholder="..." />
+                <marker date="1478744664888" expanded="true" signature="3634:3943" placeholder="..." />
+                <marker date="1478744664888" expanded="true" signature="3737:3917" placeholder="..." />
+                <marker date="1478744664888" expanded="true" signature="3968:4079" placeholder="..." />
+                <marker date="1478744664888" expanded="true" signature="3968:4179" placeholder="..." />
+                <marker date="1478744664888" expanded="true" signature="4035:4079" placeholder="..." />
+                <marker date="1478744664888" expanded="true" signature="4204:4274" placeholder="..." />
+                <marker date="1478744664888" expanded="true" signature="4204:4523" placeholder="..." />
+                <marker date="1478744664888" expanded="true" signature="4233:4274" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/advanced/frontend/views/Role/upda.php" />
+        <option value="$PROJECT_DIR$/advanced/frontend/views/Role/add.php" />
+        <option value="$PROJECT_DIR$/advanced/frontend/views/Node/upda.php" />
+        <option value="$PROJECT_DIR$/advanced/frontend/views/Node/add.php" />
+        <option value="$PROJECT_DIR$/advanced/frontend/views/Users/add.php" />
+        <option value="$PROJECT_DIR$/advanced/frontend/views/Node/show.php" />
+        <option value="$PROJECT_DIR$/advanced/frontend/views/Users/authority.php" />
+        <option value="$PROJECT_DIR$/advanced/frontend/views/Role/show.php" />
+        <option value="$PROJECT_DIR$/advanced/frontend/views/Role/authority.php" />
+        <option value="$PROJECT_DIR$/advanced/frontend/controllers/RoleController.php" />
+        <option value="$PROJECT_DIR$/advanced/frontend/controllers/NodeController.php" />
+        <option value="$PROJECT_DIR$/advanced/frontend/models/CartModel.php" />
+        <option value="$PROJECT_DIR$/advanced/frontend/views/Cart/show.php" />
+        <option value="$PROJECT_DIR$/advanced/frontend/views/Cart/add.php" />
+        <option value="$PROJECT_DIR$/advanced/frontend/controllers/UsersController.php" />
+        <option value="$PROJECT_DIR$/advanced/frontend/views/role/add.php" />
+        <option value="$PROJECT_DIR$/advanced/frontend/controllers/CartController.php" />
+        <option value="$PROJECT_DIR$/advanced/frontend/views/house/index.php" />
+        <option value="$PROJECT_DIR$/advanced/frontend/controllers/HouseController.php" />
+        <option value="$PROJECT_DIR$/advanced/frontend/views/house/show.php" />
+        <option value="$PROJECT_DIR$/advanced/frontend/views/house/upda.php" />
+        <option value="$PROJECT_DIR$/advanced/frontend/controllers/CommonController.php" />
+        <option value="$PROJECT_DIR$/advanced/frontend/views/cart/add.php" />
+        <option value="$PROJECT_DIR$/advanced/frontend/views/layouts/admin.php" />
+        <option value="$PROJECT_DIR$/advanced/frontend/controllers/LoginController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="添加" />
+    <OptionsSetting value="true" id="移除" />
+    <OptionsSetting value="true" id="签出" />
+    <OptionsSetting value="true" id="更新" />
+    <OptionsSetting value="true" id="状态" />
+    <OptionsSetting value="true" id="编辑" />
+    <ConfirmationsSetting value="0" id="添加" />
+    <ConfirmationsSetting value="0" id="移除" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="preferences.lookFeel" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcc222a9-16d9-4cd3-9461-6fe1d7ba1f6b" name="默认的" comment="" />
+      <created>1478607907138</created>
+      <option name="number" value="Default" />
+      <updated>1478607907138</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="更改" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/controllers/CommonController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="931">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#86#94#0#PHP" expanded="true" />
+            <marker date="1478757036223" expanded="true" signature="1044:1246" placeholder="select rn.no..role_node..." />
+            <marker date="1478757036223" expanded="true" signature="1169:1214" placeholder="SELECT role_..user_role..." />
+            <marker date="1478757036223" expanded="true" signature="1453:1655" placeholder="select rn.no..role_node..." />
+            <marker date="1478757036223" expanded="true" signature="1578:1623" placeholder="SELECT role_..user_role..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/layouts/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="12521" max-vertical-offset="18753">
+          <caret line="659" column="40" selection-start-line="659" selection-start-column="40" selection-end-line="659" selection-end-column="40" />
+          <folding>
+            <marker date="1478757587354" expanded="true" signature="28241:28351" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/controllers/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/role/authority.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1444" max-vertical-offset="1881">
+          <caret line="76" column="38" selection-start-line="76" selection-start-column="38" selection-end-line="76" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/controllers/HouseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="3762">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <marker date="1478756425488" expanded="true" signature="2044:2080" placeholder="select * fro..cart..." />
+            <marker date="1478756425488" expanded="true" signature="5673:5717" placeholder="select cart_..cart..." />
+            <marker date="1478756425488" expanded="true" signature="6882:6941" placeholder="UPDATE house..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/controllers/UsersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2470" max-vertical-offset="3154">
+          <caret line="133" column="9" selection-start-line="94" selection-start-column="7" selection-end-line="133" selection-end-column="9" />
+          <folding>
+            <marker date="1478740590891" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user..." />
+            <marker date="1478740590891" expanded="true" signature="-1:-1" placeholder="select * fro..user_role..." />
+            <marker date="1478740590891" expanded="true" signature="-1:-1" placeholder="select * fro..user_role..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/users/authority.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="1273">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/controllers/NodeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2299">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#39#47#0#PHP" expanded="true" />
+            <marker date="1478691635148" expanded="true" signature="-1:-1" placeholder="select * fro..node..." />
+            <marker date="1478691635148" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..node..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/users/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="741" max-vertical-offset="1330">
+          <caret line="39" column="42" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/controllers/RoleController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3135" max-vertical-offset="3458">
+          <caret line="165" column="7" selection-start-line="165" selection-start-column="7" selection-end-line="165" selection-end-column="7" />
+          <folding>
+            <element signature="e#39#47#0#PHP" expanded="true" />
+            <marker date="1478691612140" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..role..." />
+            <marker date="1478691612140" expanded="true" signature="-1:-1" placeholder="select * fro..user_role..." />
+            <marker date="1478691612140" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..role_node..." />
+            <marker date="1478691612140" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..role_node..." />
+            <marker date="1478691612140" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..role_node..." />
+            <marker date="1478691612140" expanded="true" signature="-1:-1" placeholder="/** 递归 * @pa..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/controllers/CommonController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="418" max-vertical-offset="988">
+          <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+          <folding>
+            <element signature="e#86#94#0#PHP" expanded="true" />
+            <marker date="1478757036223" expanded="true" signature="1044:1246" placeholder="select rn.no..role_node..." />
+            <marker date="1478757036223" expanded="true" signature="1169:1214" placeholder="SELECT role_..user_role..." />
+            <marker date="1478757036223" expanded="true" signature="1453:1655" placeholder="select rn.no..role_node..." />
+            <marker date="1478757036223" expanded="true" signature="1578:1623" placeholder="SELECT role_..user_role..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/role/authority.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="874" max-vertical-offset="1406">
+          <caret line="46" column="96" selection-start-line="46" selection-start-column="94" selection-end-line="46" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/house/show.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3743" max-vertical-offset="5225">
+          <caret line="197" column="28" selection-start-line="197" selection-start-column="28" selection-end-line="197" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/node/upda.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1045" max-vertical-offset="1862">
+          <caret line="55" column="103" selection-start-line="55" selection-start-column="103" selection-end-line="55" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/role/show.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2033" max-vertical-offset="2185">
+          <caret line="107" column="29" selection-start-line="107" selection-start-column="29" selection-end-line="107" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/controllers/UsersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1406">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1478740590891" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user..." />
+            <marker date="1478740590891" expanded="true" signature="-1:-1" placeholder="select * fro..user_role..." />
+            <marker date="1478740590891" expanded="true" signature="-1:-1" placeholder="select * fro..user_role..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/controllers/RoleController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1463" max-vertical-offset="1900">
+          <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+          <folding>
+            <element signature="e#39#47#0#PHP" expanded="true" />
+            <marker date="1478691612140" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..role..." />
+            <marker date="1478691612140" expanded="true" signature="-1:-1" placeholder="select * fro..user_role..." />
+            <marker date="1478691612140" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..role_node..." />
+            <marker date="1478691612140" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..role_node..." />
+            <marker date="1478691612140" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..role_node..." />
+            <marker date="1478691612140" expanded="true" signature="-1:-1" placeholder="/** 递归 * @pa..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/controllers/NodeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1748" max-vertical-offset="1919">
+          <caret line="92" column="43" selection-start-line="92" selection-start-column="43" selection-end-line="92" selection-end-column="43" />
+          <folding>
+            <element signature="e#39#47#0#PHP" expanded="true" />
+            <marker date="1478691635148" expanded="true" signature="-1:-1" placeholder="select * fro..node..." />
+            <marker date="1478691635148" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..node..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/node/show.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1444" max-vertical-offset="4864">
+          <caret line="76" column="132" selection-start-line="76" selection-start-column="132" selection-end-line="76" selection-end-column="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/role/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="741" max-vertical-offset="1482">
+          <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/role/upda.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="969" max-vertical-offset="1596">
+          <caret line="51" column="136" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="136" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/users/show.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1178" max-vertical-offset="4674">
+          <caret line="62" column="37" selection-start-line="60" selection-start-column="28" selection-end-line="62" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/users/upda.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="1330">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/role/show.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1311" max-vertical-offset="4940">
+          <caret line="69" column="25" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/layouts/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="9234" max-vertical-offset="19038">
+          <caret line="486" column="48" selection-start-line="486" selection-start-column="48" selection-end-line="486" selection-end-column="48" />
+          <folding>
+            <marker date="1478757587354" expanded="true" signature="28241:28351" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/users/upda.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="1330">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/users/show.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1178" max-vertical-offset="4674">
+          <caret line="62" column="37" selection-start-line="60" selection-start-column="28" selection-end-line="62" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/role/upda.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="969" max-vertical-offset="1596">
+          <caret line="51" column="136" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="136" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/node/show.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57213116" vertical-offset="1289" max-vertical-offset="6214">
+          <caret line="63" column="28" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/node/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.95245904" vertical-offset="579" max-vertical-offset="2581">
+          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/node/upda.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1045" max-vertical-offset="1862">
+          <caret line="55" column="103" selection-start-line="55" selection-start-column="103" selection-end-line="55" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/role/show.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2033" max-vertical-offset="2185">
+          <caret line="107" column="29" selection-start-line="107" selection-start-column="29" selection-end-line="107" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/users/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1216" max-vertical-offset="1330">
+          <caret line="64" column="29" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/role/authority.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1444" max-vertical-offset="1881">
+          <caret line="76" column="38" selection-start-line="76" selection-start-column="38" selection-end-line="76" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/controllers/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="651">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/cart/show.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-80.35714" vertical-offset="0" max-vertical-offset="3675">
+          <caret line="90" column="48" selection-start-line="90" selection-start-column="48" selection-end-line="90" selection-end-column="148" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/controllers/NodeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="2299">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#39#47#0#PHP" expanded="true" />
+            <marker date="1478691635148" expanded="true" signature="-1:-1" placeholder="select * fro..node..." />
+            <marker date="1478691635148" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..node..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/controllers/UsersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="5.193443" vertical-offset="0" max-vertical-offset="5976">
+          <caret line="91" column="35" selection-start-line="91" selection-start-column="26" selection-end-line="91" selection-end-column="35" />
+          <folding>
+            <marker date="1478740590891" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user..." />
+            <marker date="1478740590891" expanded="true" signature="-1:-1" placeholder="select * fro..user_role..." />
+            <marker date="1478740590891" expanded="true" signature="-1:-1" placeholder="select * fro..user_role..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/users/authority.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09344263" vertical-offset="114" max-vertical-offset="1273">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/controllers/RoleController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="3496">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#39#47#0#PHP" expanded="true" />
+            <marker date="1478691612140" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..role..." />
+            <marker date="1478691612140" expanded="true" signature="-1:-1" placeholder="select * fro..user_role..." />
+            <marker date="1478691612140" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..role_node..." />
+            <marker date="1478691612140" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..role_node..." />
+            <marker date="1478691612140" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..role_node..." />
+            <marker date="1478691612140" expanded="true" signature="-1:-1" placeholder="/** 递归 * @pa..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/controllers/CartController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="75" max-vertical-offset="2125">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/house/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.857142" vertical-offset="1378" max-vertical-offset="3016">
+          <caret line="69" column="25" selection-start-line="60" selection-start-column="20" selection-end-line="69" selection-end-column="25" />
+          <folding>
+            <marker date="1478744664888" expanded="true" signature="2896:3005" placeholder="..." />
+            <marker date="1478744664888" expanded="true" signature="2896:3085" placeholder="..." />
+            <marker date="1478744664888" expanded="true" signature="2964:3005" placeholder="..." />
+            <marker date="1478744664888" expanded="true" signature="3111:3194" placeholder="..." />
+            <marker date="1478744664888" expanded="true" signature="3111:3255" placeholder="..." />
+            <marker date="1478744664888" expanded="true" signature="3282:3356" placeholder="..." />
+            <marker date="1478744664888" expanded="true" signature="3282:3609" placeholder="..." />
+            <marker date="1478744664888" expanded="true" signature="3385:3583" placeholder="..." />
+            <marker date="1478744664888" expanded="true" signature="3634:3708" placeholder="..." />
+            <marker date="1478744664888" expanded="true" signature="3634:3943" placeholder="..." />
+            <marker date="1478744664888" expanded="true" signature="3737:3917" placeholder="..." />
+            <marker date="1478744664888" expanded="true" signature="3968:4079" placeholder="..." />
+            <marker date="1478744664888" expanded="true" signature="3968:4179" placeholder="..." />
+            <marker date="1478744664888" expanded="true" signature="4035:4079" placeholder="..." />
+            <marker date="1478744664888" expanded="true" signature="4204:4274" placeholder="..." />
+            <marker date="1478744664888" expanded="true" signature="4204:4523" placeholder="..." />
+            <marker date="1478744664888" expanded="true" signature="4233:4274" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/house/show.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.5357144" vertical-offset="1727" max-vertical-offset="6509">
+          <caret line="72" column="53" selection-start-line="72" selection-start-column="53" selection-end-line="72" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/house/upda.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.857143" vertical-offset="910" max-vertical-offset="3276">
+          <caret line="65" column="118" selection-start-line="65" selection-start-column="118" selection-end-line="65" selection-end-column="118" />
+          <folding>
+            <marker date="1478756551565" expanded="true" signature="3489:3618" placeholder="..." />
+            <marker date="1478756551565" expanded="true" signature="3557:3618" placeholder="..." />
+            <marker date="1478756551565" expanded="true" signature="3804:3948" placeholder="..." />
+            <marker date="1478756551565" expanded="true" signature="3975:4245" placeholder="..." />
+            <marker date="1478756551565" expanded="true" signature="4078:4245" placeholder="..." />
+            <marker date="1478756551565" expanded="true" signature="4373:4643" placeholder="..." />
+            <marker date="1478756551565" expanded="true" signature="4476:4643" placeholder="..." />
+            <marker date="1478756551565" expanded="true" signature="4747:4913" placeholder="..." />
+            <marker date="1478756551565" expanded="true" signature="4814:4913" placeholder="..." />
+            <marker date="1478756551565" expanded="true" signature="5020:5308" placeholder="..." />
+            <marker date="1478756551565" expanded="true" signature="5049:5308" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/cart/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.535714" vertical-offset="567" max-vertical-offset="2133">
+          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/role/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.392857" vertical-offset="1327" max-vertical-offset="1950">
+          <caret line="58" column="61" selection-start-line="58" selection-start-column="61" selection-end-line="58" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/models/CartModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.6896553" vertical-offset="792" max-vertical-offset="1947">
+          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/controllers/CommonController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="27.357143" vertical-offset="1810" max-vertical-offset="2484">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <element signature="e#86#94#0#PHP" expanded="true" />
+            <marker date="1478757036223" expanded="true" signature="1044:1246" placeholder="select rn.no..role_node..." />
+            <marker date="1478757036223" expanded="true" signature="1169:1214" placeholder="SELECT role_..user_role..." />
+            <marker date="1478757036223" expanded="true" signature="1453:1655" placeholder="select rn.no..role_node..." />
+            <marker date="1478757036223" expanded="true" signature="1578:1623" placeholder="SELECT role_..user_role..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/views/layouts/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.1724138" vertical-offset="8240" max-vertical-offset="25326">
+          <caret line="312" column="32" selection-start-line="312" selection-start-column="32" selection-end-line="312" selection-end-column="32" />
+          <folding>
+            <marker date="1478757587354" expanded="true" signature="28241:28351" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/controllers/HouseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-62.0" vertical-offset="2980" max-vertical-offset="8460">
+          <caret line="136" column="0" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+          <folding>
+            <marker date="1478756425488" expanded="true" signature="2044:2080" placeholder="select * fro..cart..." />
+            <marker date="1478756425488" expanded="true" signature="5673:5717" placeholder="select cart_..cart..." />
+            <marker date="1478756425488" expanded="true" signature="6882:6941" placeholder="UPDATE house..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/frontend/controllers/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0" vertical-offset="910" max-vertical-offset="1692">
+          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
